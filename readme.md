@@ -1,3 +1,3 @@
-# This is going to be the first proyect
+# This is going to be the first proyect about HTML
 
-Im going to write everything in english just for fun
+If youre reading this please let me know if you have any suggestions.
